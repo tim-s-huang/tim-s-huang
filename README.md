@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Tim 👋
+
+Cyber Security MSc student at Cardiff University with a First-Class Bsc in Computer Science.
+
+- Interested in cybersecurity risk analysis and developing secure systems
+- Strong foundations in Python and C#
+- Focused on building projects that are clean, effective and unique
+- Game development as a personal creativity outlet
+
+📍 Cardiff, UK 
+🔗 LinkedIn: https://www.linkedin.com/in/timothy-shimman-huang/
 
 <!--
 **tim-s-huang/tim-s-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
