@@ -1,11 +1,17 @@
 ## Hi, I'm Tim 👋
 
-Cyber Security MSc student at Cardiff University with a First-Class Bsc in Computer Science.
+Cardiff Computer Science (BSc) and Cyber Security (MSc) Graduate with a First-Class Bsc in Computer Science.
 
-- Interested in cybersecurity risk analysis and developing secure systems
-- Strong foundations in Python and C#
-- Focused on building projects that are clean, effective and unique
-- Game development as a personal creativity outlet
+Projects:
+1. Static & Dynamic Ransomware Detection Pipelines and Prototype Detection Agent
+2. Gamified and Standard Typing Applications
+3. Flask Online Shop
+4. Database Performance Study
+5. Game Development Projects
+
+Currently Working On:
+
+Currently Learning:
 
 📍 Cardiff, UK 
 🔗 LinkedIn: https://www.linkedin.com/in/timothy-shimman-huang/
