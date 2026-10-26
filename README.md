@@ -9,9 +9,9 @@ Projects:
 4. Database Performance Study
 5. Game Development Projects
 
-Currently Working On:
+Currently Working On: Turn-based card game; designing balanced mechanics with maths and logic
 
-Currently Learning:
+Currently Learning: Python fundamentals through _100 Days of Code_ by Dr Angela Yu, writing everything by hand to build solid foundations
 
 📍 Cardiff, UK 
 🔗 LinkedIn: https://www.linkedin.com/in/timothy-shimman-huang/
