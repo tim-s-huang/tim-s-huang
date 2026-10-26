@@ -4,7 +4,7 @@ Cardiff Computer Science (BSc) and Cyber Security (MSc) Graduate with a First-Cl
 
 Projects:
 1. Static & Dynamic Ransomware Detection Pipelines and Prototype Detection Agent
-2. Gamified and Standard Typing Applications
+2. Gamified Typing Application using the Octalysis Framework
 3. Flask Online Shop
 4. Database Performance Study
 5. Game Development Projects
