@@ -5,7 +5,7 @@
 2. [Typing Entrepreneur](https://github.com/tim-s-huang/Gamified-Typing-Application) - Gamified typing trainer built with the Octalysis gamification framework; a 15-person study found it improved typing speed
 3. [Exotic Animal Flask Shop](https://github.com/tim-s-huang/Exotic-Animal-Flask-Shop) - Small fictional e-commerce site with product pages and a functioning basket; using Python, Flask and SQlite
 4. [Database Performance Study](https://github.com/tim-s-huang/database-performance-study) - Compares schema designs and query optimisation in MongoDB and Neo4j: embedded documents cut query times up to 38% and indexing cut graph database hits by 35%
-5. Games: [Burger Defender](https://github.com/tim-s-huang/burger-defender)
+5. Games: [Burger Defender](https://github.com/tim-s-huang/burger-defender), [Ice Cream Van Simulator](https://github.com/tim-s-huang/ice-cream-van-simulator)
 
 **Currently Working On**: Turn-based card game; designing balanced mechanics with maths and logic
 
