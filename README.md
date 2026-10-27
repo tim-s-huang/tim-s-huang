@@ -3,7 +3,7 @@
 **Projects:**
 1. [Ransomware Detection with ML](https://github.com/tim-s-huang/ransomware-detection-prototype) - Compares four models on static and behavioural data alongside a prototype detection desktop app 
 2. [Typing Entrepreneur](https://github.com/tim-s-huang/Gamified-Typing-Application) - Gamified typing trainer built with the Octalysis gamification framework; a 15-person study found it improved typing speed
-3. Exotic Animal Flask Shop [TBA]
+3. [Exotic Animal Flask Shop](https://github.com/tim-s-huang/Exotic-Animal-Flask-Shop) - Small fictional e-commerce site with product pages and a functioning basket; using Python, Flask and SQlite
 4. Database Performance Study [TBA]
 5. Games [TBA]
 
